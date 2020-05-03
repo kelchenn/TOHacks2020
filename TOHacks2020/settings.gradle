@@ -1,0 +1,2 @@
+rootProject.name='TOHacks2020'
+include ':app'
